@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "title": "iPhone 13",
+        "description": "All-screnn OLED display, Superfast 5G, A15 Bionic chip, Advanced dual-camera system, Up to 19 hours video playback, Compatible with MagSafe accessories.",
+        "price": 699
+    },
+    {
+        "id": 2,
+        "title": "iPhone 12",
+        "description": "All-screnn OLED display, Superfast 5G, A14 Bionic chip, Dual-camera system, Up to 17 hours video playback, Compatible with MagSafe accessories.",
+        "price": 599
+    },
+    {
+        "id": 3,
+        "title": "iPad Air",
+        "description": "An all-screen design with a stunning 10.9-inch Liquid Retina display, featuring fast, easy, and secure Touch ID, powered by our most advanced chip ever A14 Bionic.",
+        "price": 599
+    },
+    {
+        "id": 4,
+        "title": "iPad Pro",
+        "description": "Supercharged by the Apple M1 chip, Mind-blowing perormance, XDR.Liquid Retina to the extreme, Superfast cellular speeds, 5G and Wi-Fi Fast friends, Cameras.You/ll want to turn your video on for this.",
+        "price": 799
+    },
+    {"id": 5,
+        "title": "AirPods Pro",
+        "description": "Active Noise Cancellation for immersive sound. Transparency mode for hearing what's happening around you. A customizable fit for all- day comfort. Magic like you've never heard.",
+        "price": 249
+    },
+    {"id": 6,
+        "title": "AirPods Max",
+        "description": "Introducing AirPods Max — a perfect balance of exhilarating high-fidelity audio and the effortless magic of AirPods. The ultimate personal listening experience is here.",
+        "price": 549,
+        "quantity": 1
+    },
+    {
+        "id": 7,
+        "title": "Apple Watch Series 7",
+        "description": "Full screen ahead. Largest, most advanced display yet.Most durable Apple Watch ever.Breakthrough health innovations.Up to 33% faster charging.",
+        "price": 399
+    },
+    {
+        "id": 8,
+        "title": "Apple Watch SE",
+        "description": "Powerful features to help keep you connected, active, healthy, and safe. Advanced sensors to track all the ways you move and to measure your favorite workouts. And available cellular so you can go without your phone.1 Apple Watch SE is a lot of watch for a lot less than you expected.",
+        "price": 279
+    }
+]
